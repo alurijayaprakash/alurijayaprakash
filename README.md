@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jayaprakash Aluri ==> @alurijayaprakash
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on MERN Stack projects
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Bigdata
+- 💞️ I’m looking to collaborate on Data Science projects
 - 📫 you can reach me at [jayaprakashaluri.dev](https://jayaprakashaluri.dev)
 
 
