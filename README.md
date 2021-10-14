@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Jayaprakash Aluri ==> @alurijayaprakash
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science relevant technologies
-- 💞️ I’m looking to collaborate on Data Science projects
+- 👀 I’m interested in Information Technology
+- 🌱 I’m currently learning Software Development relevant technologies
+- 💞️ I’m looking to collaborate on Software Development projects
+<!---
 - 📫 you can reach me at [jayaprakashaluri.dev](https://jayaprakashaluri.dev)
-
+--->
 
 [![Jayaprakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=alurijayaprakash&show_icons=true)](https://github.com/alurijayaprakash/github-readme-stats)
 
