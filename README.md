@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jayaprakash Aluri ==> @alurijayaprakash
-- 👀 I’m interested in Information Technology
-- 🌱 I’m currently learning Software Development relevant technologies
-- 💞️ I’m looking to collaborate on Software Development projects
+- 👋 Hi, I’m Jayaprakash Aluri ==> @alurijayaprakash - Master's Student at IIIT Hyderabad, India
+- 👀 I’m interested in Data Science | Machine Learning | Deep Learning
+- 🌱 I’m currently learning Data Science end to end project implementation
+- 💞️ I’m looking to collaborate on Data Science related projects
 <!---
 - 📫 you can reach me at [jayaprakashaluri.dev](https://jayaprakashaluri.dev)
 --->
