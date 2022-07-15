@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Jayaprakash Aluri ==> @alurijayaprakash - Master's Student at IIIT Hyderabad, India
-- 👀 I’m interested in Data Science | Machine Learning | Deep Learning
-- 🌱 I’m currently working as Student Mentor at IndicWiki [Telugu Wikipedia - IIIT Hyderabad initiative] Project
+- 👋 Hi, I’m Jayaprakash Aluri ==> @alurijayaprakash - Graduated from IIIT Hyderabad, India
+- 👀 I’m interested in Data Science | Machine Learning | Deep Learning | Software Development
+- 🌱 I’m currently working as Member of Technical Staff @ Techmojo Pvt.Ltd (India)
+- 🌱 I’m previously worked as Student Mentor at IndicWiki [Telugu Wikipedia - IIIT Hyderabad initiative] Project
 - 💞️ I’m looking to collaborate on Data Science related projects
 <!---
 - 📫 you can reach me at [jayaprakashaluri.dev](https://jayaprakashaluri.dev)
