@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Jayaprakash Aluri ==> @alurijayaprakash - Graduated from IIIT Hyderabad, India
-- 👀 I’m interested in Software Development | Backend/Frontend | Full Stack Development
-- 🌱 I’m currently working as Member of Technical Staff @ Techmojo Pvt.Ltd (India)
-- 🌱 I’m previously worked as Student Mentor at IndicWiki [Telugu Wikipedia - IIIT Hyderabad initiative] Project
-- 💞️ I’m looking to collaborate on Full Stack Development related projects
+- 👀 I’m interested in Software Development | Backend/Devops
+- 🌱 I’m currently working as Software Engineer @ SES Satellites
+- 🌱 I previously worked as Member of Technical Staff @ Techmojo Pvt.Ltd
+- 🌱 I previously worked as Student Mentor at IndicWiki [Telugu Wikipedia - IIIT Hyderabad initiative] Project
+- 💞️ I’m looking to collaborate on Backend/Devops related projects
 <!--- - 📫 Checkout my Personal Blog  [jayaprakashaluri.com](https://jayaprakashaluri.com)
 
 [![Jayaprakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=alurijayaprakash&show_icons=true)](https://github.com/alurijayaprakash/github-readme-stats)
